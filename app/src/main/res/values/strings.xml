@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidArshinsky92</string>
+    <string name="button">Ok</string>
+    <string name="text">Hello world!</string>
+    <string name="button_color">Change color</string>
+    <string-array name="spinner_text">
+        <item>Russian</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="spinner_margins">
+        <item>Little</item>
+        <item>Medium</item>
+        <item>Big</item>
+    </string-array>
+</resources>

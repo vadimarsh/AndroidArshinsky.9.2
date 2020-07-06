@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidArshinsky92</string>
+    <string name="button">Хор</string>
+    <string name="text">Привет мир!</string>
+    <string name="button_color">Сменить отступы</string>
+    <string-array name="spinner_text">
+        <item>Русский</item>
+        <item>Английский</item>
+    </string-array>
+    <string-array name="spinner_margins">
+        <item>Мелкая</item>
+        <item>Средняя</item>
+        <item>Крупная</item>
+    </string-array>
+</resources>
